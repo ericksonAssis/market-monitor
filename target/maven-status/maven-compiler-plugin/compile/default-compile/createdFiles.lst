@@ -1,0 +1,12 @@
+br\com\erickson\marketmonitor\dto\ProductDTO.class
+br\com\erickson\marketmonitor\entity\Product$ProductBuilder.class
+br\com\erickson\marketmonitor\entity\Marketplace.class
+br\com\erickson\marketmonitor\entity\Product.class
+br\com\erickson\marketmonitor\entity\SearchAlert.class
+br\com\erickson\marketmonitor\entity\User.class
+br\com\erickson\marketmonitor\entity\SearchAlert$SearchAlertBuilder.class
+br\com\erickson\marketmonitor\HomeController.class
+br\com\erickson\marketmonitor\service\MarketplaceClient.class
+br\com\erickson\marketmonitor\entity\User$UserBuilder.class
+br\com\erickson\marketmonitor\service\MarketplaceService.class
+br\com\erickson\marketmonitor\MarketMonitorApplication.class
